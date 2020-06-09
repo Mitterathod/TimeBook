@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921914749610",
+    "firebase_url": "https://timebook-ec0de.firebaseio.com",
+    "project_id": "timebook-ec0de",
+    "storage_bucket": "timebook-ec0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921914749610:android:af9da89e45d941f11d16d3",
+        "android_client_info": {
+          "package_name": "com.example.timebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921914749610-1mt0uhoic3nbi6qbnltruj24qgaj5ein.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timebook",
+            "certificate_hash": "247930dc280dac92229cf2713a04e527db285cbb"
+          }
+        },
+        {
+          "client_id": "921914749610-g6gtq1oboln8r55oas3e5thapetr7pi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRv6BuM1QPcxfxpBXIiukckomH6fXJGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921914749610-g6gtq1oboln8r55oas3e5thapetr7pi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

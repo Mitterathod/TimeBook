@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TimeBook</string>
+    <string name="title_activity_current_work_shift">CurrentWorkShift</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_works_sift">WorksSift</string>
+    <string name="current_workshift">Aktuellt körpass</string>
+    <string name="log_book">Vilobok</string>
+    <string name="vilotidsrapport_nr">Vilotidsrapport nr</string>
+    <string name="_2843701">2843701</string>
+    <string name="verktyg">Verktyg</string>
+    <string name="starta">Starta</string>
+    <string name="avsluta">Avsluta</string>
+    <string name="aktuellt_k_rpass">Aktuellt körpass</string>
+    <string name="justera_tid">Justera tid</string>
+    <string name="regler">Regler</string>
+    <string name="spara">Spara</string>
+    <string name="arbetsgivare_nr">Arbetsgivare nr</string>
+    <string name="vilotid">Vilotid</string>
+    <string name="datum">Datum</string>
+    <string name="fr_n_och_med_klockan">Från och med klockan</string>
+    <string name="till_och_med_klockan">Till och med klockan</string>
+    <string name="f_rarkod">Förarkod</string>
+    <string name="f_rarens_namn">Förarens namn</string>
+    <string name="postadress_bostaden">Postadress, bostaden</string>
+    <string name="mobiltelefon">Mobiltelefon</string>
+    <string name="telefon_bostaden">Telefon bostaden</string>
+    <string name="arbetsgivare_1">Arbetsgivare 1</string>
+    <string name="adress_och_telefon">Adress och telefon</string>
+    <string name="arbetsgivare_2">Arbetsgivare 2</string>
+    <string name="arbetsgivare_3">Arbetsgivare 3</string>
+    <string name="zero_time">00:00</string>
+    <string name="saved">Sparad</string>
+    <string name="field_required">Fyll i fält</string>
+</resources>

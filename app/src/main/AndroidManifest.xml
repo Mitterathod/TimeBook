@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.timebook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.timebook.downloadActivity.DownloadActivity"></activity>
+        <activity android:name="com.example.timebook.registerActivity.RegisterActivity" />
+        <activity android:name="com.example.timebook.editActivity.EditActivity" />
+        <activity android:name="com.example.timebook.breakActivity.BreakActivity" />
+        <activity android:name="com.example.timebook.toolsActivity.ToolsActivity" />
+        <activity android:name="com.example.timebook.restTimeActivity.RestTimeActivity" />
+        <activity
+            android:name=".WorksSift"
+            android:label="@string/title_activity_works_sift" />
+        <activity
+            android:name=".CurrentWorkShift"
+            android:label="@string/title_activity_current_work_shift" />
+        <activity android:name="com.example.timebook.mainActivity.MainActivity" />
+        <activity
+            android:name="com.example.timebook.SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
